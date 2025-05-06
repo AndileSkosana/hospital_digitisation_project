@@ -1,0 +1,4 @@
+kafka-python
+apscheduler
+python-dotenv
+psycopg2

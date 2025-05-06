@@ -1,0 +1,1 @@
+# Script to generate hospital patients using doctors and people data
